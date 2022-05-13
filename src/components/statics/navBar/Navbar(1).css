@@ -1,0 +1,17 @@
+.tituloNavbar{
+    margin-right: 5px;
+    color: white!important;
+}
+
+.cursor{
+    cursor: pointer;
+}
+
+.MuiAppBar-colorPrimary{
+     background-color: gray!important;
+
+}
+
+.text-decorator-none{
+    text-decoration: none;
+}

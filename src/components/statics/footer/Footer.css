@@ -1,0 +1,23 @@
+.textSize5{
+    font-size: 15px !important;
+    text-decoration: none !important;
+}
+
+.box1{
+    background-color:gray;
+    height: 120px ;
+}
+
+.redes{
+    font-size: 60px !important;
+    color: red ;
+}
+
+.box2{
+    background-color: black;
+    height: 60px ; 
+}
+
+.textos{
+    color: red;
+}
